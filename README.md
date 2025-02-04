@@ -69,6 +69,9 @@ A simple React Native Timer Management App that allows users to add, track, and 
 ## License
 This project is licensed under the MIT License.
 
+## APK file link
+https://drive.google.com/file/d/1dFH6fVACV-n565lXxyPZherqPEF18-Dx/view?usp=sharing
+
 ---
 
 Feel free to contribute and improve the app!
